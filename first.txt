@@ -1,3 +1,0 @@
-'New Git Bash Project
-'Test local branching
-'Test pushing a local branch to a remote repository
